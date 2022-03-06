@@ -29,4 +29,5 @@ Each person should pay: $19.93
 
 ## Resources
 
-[Floating Point Arithmetic: Issues and Limitations](https://docs.python.org/3/tutorial/floatingpoint.html)
+- [Floating Point Arithmetic: Issues and Limitations](https://docs.python.org/3/tutorial/floatingpoint.html)
+- [str.format(*args, **kwargs)](https://docs.python.org/3.9/library/stdtypes.html#str.format)
