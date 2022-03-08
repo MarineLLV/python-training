@@ -23,3 +23,9 @@ or
 ```
 Tails
 ```
+
+## Resources
+
+- [Python Random Module](https://www.askpython.com/python-modules/python-random-module-generate-random-numbers-sequences)
+- [Pseudorandom number generators](https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/random-vs-pseudorandom-number-generators)
+- [Mersenne Twister](https://en.wikipedia.org/wiki/Mersenne_Twister)
